@@ -7,7 +7,7 @@
  *  	=> Ecrit les informations de l'utilisateur dans la console
 */
 
-include("bot_api_key.php");
+include("brx_api_key.php");
 
 /**
  * Effectue une requete pour afficher les informations de l'utilisateur

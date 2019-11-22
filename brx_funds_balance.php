@@ -2,12 +2,12 @@
 
 
 /**
- * bot_funds_balance.php
+ * brx_funds_balance.php
  * ---
  * Robot de test de l'API Bitrevex 
  *  	=> Affiche les informations sur le solde de l'utilisateur 
 */
-include("bot_api_key.php");
+include("brx_api_key.php");
 
 
 $url = "https://bitrevex.com/api/v1/funds?_key=$API_KEY";
