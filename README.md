@@ -1,6 +1,6 @@
 **Bitrevex API demo**
 
-For testing just lauch the script with your favorite shell and convert the output to a readable thing 
+For testing just launch the script with your favorite shell and convert the output to a readable thing 
 
 - feeding the program less : 
 `php script.php | less`
