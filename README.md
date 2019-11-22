@@ -1,4 +1,4 @@
-###Bitrevex API demo 
+**Bitrevex API demo**
 
 For testing just lauch the script with your favorite shell and convert the output to a readable thing 
 
